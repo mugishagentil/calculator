@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Bebas+Neue&family=Chivo+Mono&family=Kanit:wght@500&family=Lobster&family=Merriweather:wght@300;700;900&family=Montserrat:wght@100&family=Oswald:wght@200;400;500;600;700&family=Quicksand:wght@300;400;600&family=Roboto:ital,wght@0,100;0,300;1,100&family=Rubik+Dirt&family=Rubik+Moonrocks&family=Russo+One&family=Vina+Sans&display=swap');
+body{
+    background-color: #363636;
+}
+.container{
+    width: 30%;
+    height: 400px;
+    background-color: #C9CACA;
+    border-radius: 50px;
+    margin: 100px 300px;
+}
+
+.container-Two{
+    width: 70%;
+    height: 300px;
+    background-color: #1b1b1b;
+    border-radius: 20px;
+    margin: 20px 40px;
+}
+.head-five{
+padding-bottom: 5px;
+}
+.upper-div{
+    width: 90%;
+    height: 60px;
+    background-color: #4e5254;
+    margin-left: 7px;
+    border-radius: 10px;
+    border: 3px solid rgb(0, 0, 0);
+}
+#result{
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+#Action{
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+    color: rgb(172, 171, 171);
+    font-size: 15px;
+}
+.down-div{
+    width: 100%;
+    display: flex;
+}
+.left-div{
+    width: 70%;
+    height: 160px;
+    /* background-color: aqua; */
+    margin-left: 13px;
+    margin-top: 30px;
+}
+.rigth-div{
+    width: 15%;
+    height: 160px;
+    /* background-color: rgb(255, 123, 0); */
+    margin-left: 7px;
+    margin-top: 30px;
+}
+.button{
+    border: 1px solid #D3D3D1;
+    background-color: #D3D3D1;
+    border-radius: 50px;
+    font-size: 25px;
+    box-shadow: 2px 2px 3px #2e2e2e;
+}
+button{
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.Reset{
+    width: 110px;
+    padding: 5px;
+    border-radius: 20px;
+    border: 1px solid #fe9603;
+    background-color: #fe9603;
+}
+.rigth-div{
+    
+}
+.button2{
+    margin-top: 5px;
+    margin-left: 1px;
+    border: 1px solid #fe9603;
+    background-color: #fe9603;
+    border-radius: 50px;
+    font-size: 25px;
+    box-shadow: 2px 2px 3px #2e2e2e; 
+
+}
